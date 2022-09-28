@@ -1,6 +1,8 @@
 body {
     background-color: #D4C1B0;
     text-align: center;
+    font-family: 'Hammersmith One', sans-serif; 
+    font-weight: 50px;
 }
 button {
     background-color: #B74F6F;
@@ -15,10 +17,5 @@ button {
 
 button:hover {
     background-color: #001D8F;
-}
-
-body {
-   font-family: 'Hammersmith One', sans-serif; 
-    font-weight: 50px;
 }
 
