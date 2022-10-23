@@ -1,0 +1,96 @@
+#footer {
+    background-color:paleturquoise;
+    padding:20px;
+}
+
+body{
+    font-family: 'Cabin', sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.white {
+    color: white;
+}
+img {
+    display: block;
+    max-width: 30%;
+    height: auto;
+}
+
+.heading{
+    background-color:#EC7937;
+}
+
+#home{
+    background-image:url(IMG_20170728_195026.jpg);
+    background-size:cover;
+    background-position: center;
+    text-align: center;
+}
+
+.line{
+    margin:7px 0px 0px 0px;
+}
+#headshot{
+    width:30%;
+    
+}
+
+p{
+    font-size: 25px;
+}
+
+ul {
+    font-size: 25px;
+}
+
+.title {
+    padding:10px;
+}
+
+.smaller {
+    font-size:20px;
+}
+
+.nav-link {
+    background-color:white;
+    color:#007C8F;
+}
+
+button{
+    background-color:white;
+    margin: 4px;
+}
+button a {
+    text-decoration:none;
+}
+
+button a:hover{
+    text-decoration:none;
+    color:white;
+}
+.vr {
+    color: black;
+}
+
+.nav {
+    margin:0px;
+}
+
+#education {
+    color:white;
+}
+
+#experience {
+    color:white;
+}
+
+#skills-heading {
+    color:white;
+}
