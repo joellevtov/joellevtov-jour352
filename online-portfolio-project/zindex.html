@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+   <title> CSS Z-Index </title>
+    <style>
+    .box {
+        height:150px;
+        width: 150px;
+        position:relative;
+    }
+    
+    
+    .box-red {
+        background: red;
+        z-index: 1;
+    }
+    
+    .box-blue {
+        background: #00d5f1;
+        bottom:80px;
+        left:55px;
+        z-index: 2;
+    }
+        
+    .box-yellow {
+        background: rgb(251,239,0);
+        left: 25px;
+        top: 25px;
+        z-index:3;
+    }
+</style>
+</head>
+    
+<body>
+    <div class="box box-red">
+        <div class="box box-yellow"></div>
+    </div>
+    <div class="box box-blue"></div>
+    
+    
+</body>
