@@ -14,16 +14,22 @@ font-style: normal;
 
 .home {
     color:white;
-    background-image:url(lev_7176.jpeg);
-    background-size:cover;
-    max-height: 100%;
     background-position: center;
     text-align: left;
+     background-image:url(lev_7176.jpeg);
+    background-size:cover;
+    max-height: 100%;
+    padding-top:700px;
+    opacity:0.5;
 }
 
 .pullquote {
     border-left: 10px solid #fcdb5e;
     background-image:url(PXL_20211215_213551819.MP.jpg);
     background-size:cover;
+    padding-top:500px;
 }
 
+.description {
+    color:gray;
+}
