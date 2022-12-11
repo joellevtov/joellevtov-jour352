@@ -12,16 +12,6 @@ font-weight: 600;
 font-style: normal;
 }
 
-.home {
-    color:white;
-    background-position: center;
-    text-align: left;
-     background-image:url(lev_7176.jpeg);
-    background-size:cover;
-    max-height: 100%;
-    padding-top:700px;
-    opacity:0.5;
-}
 
 .pullquote {
     border-left: 10px solid #fcdb5e;
@@ -33,3 +23,18 @@ font-style: normal;
 .description {
     color:gray;
 }
+
+ 
+.topper {
+      background-image:url(lev_7176.jpeg);
+      padding:10px 10px 800px 10px;
+      width:100%;
+      background-size: cover;
+      background-position: center;
+  }
+
+  h1 {
+      padding:0px 10px 10px 10px;
+      background-color:black;
+      color:white;
+  }
