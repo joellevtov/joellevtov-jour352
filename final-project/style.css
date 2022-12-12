@@ -17,7 +17,7 @@ font-style: normal;
     border-left: 10px solid #fcdb5e;
     background-image:url(PXL_20211215_213551819.MP.jpg);
     background-size:cover;
-    padding-top:500px;
+    padding:500px 0px 0px 0px;
 }
 
 .description {
@@ -34,13 +34,13 @@ font-style: normal;
   }
 
 #h1-topper {
-      background-color:black;
+      background-color:rgba(0, 0, 0, 0.55);
       color:white;
   }
 
-.bottom {
-        position: absolute;
-        bottom: 0;
-        right: 0;
-    margin:10px 10px 100px 10px;
-}
+#h1-pullquote {
+      background-color:rgba(0, 0, 0, 0.55);
+      color:white;
+    padding: 0px 5px 0px 5px;
+    margin: 0px 0px 0px 0px;
+  }
