@@ -27,14 +27,20 @@ font-style: normal;
  
 .topper {
       background-image:url(lev_7176.jpeg);
-      padding:10px 10px 800px 10px;
+      padding:800px 0px 0px 0px;
       width:100%;
       background-size: cover;
       background-position: center;
   }
 
-  h1 {
-      padding:0px 10px 10px 10px;
+#h1-topper {
       background-color:black;
       color:white;
   }
+
+.bottom {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    margin:10px 10px 100px 10px;
+}
